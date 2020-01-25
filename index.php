@@ -9,7 +9,7 @@
 <body>
     
     <?php
-        echo ('hello kkwadrat wordl')
+        echo ('hello kkwadrat world!')
     ?>
 
 </body>
